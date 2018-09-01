@@ -65,3 +65,14 @@
 336 Lemon
 337 Sweet-Lemon
 338 Lime
+4100 Black-Seeded-Grapes
+5103 Dried-Cranberry
+7248 Asian-Pears 
+7501 French-Green-Beans
+7606 Golden-Enoki-Mushroom
+7644 Red-Bag-Onion
+7666 Tri-Colour-Nugget-Potato
+7671 Baby-Boomer-Potatoes
+7770 Snow-Peas
+7772 Snap-Peas
+7814 Cooking-with-Spinach-Bag
