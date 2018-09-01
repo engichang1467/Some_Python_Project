@@ -113,3 +113,8 @@
 631 Carrots-Bag
 633 Golden-Bulk-Beets
 637 Japanses-Yams
+640 Boiler-Bag-Onion
+641 Cooking-Onion
+642 Green-Onion
+643 Onion-Leeks
+644 Red-Onion
